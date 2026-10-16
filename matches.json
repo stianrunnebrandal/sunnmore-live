@@ -1,0 +1,7 @@
+{
+  "source": "https://www.fotball.no/footballapi/Calendar/GetCalendar?tournamentId=205682",
+  "tournamentId": 205682,
+  "syncedAt": null,
+  "dataType": "calendar-events-only",
+  "events": []
+}
